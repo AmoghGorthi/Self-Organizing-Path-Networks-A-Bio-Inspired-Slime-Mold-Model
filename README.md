@@ -1,6 +1,6 @@
 # Self-Organizing Path Networks: A Bio-Inspired Slime Mold Model
 
-![Slime Mold Growth Animation](frames/slime_growth.gif)
+
 
 ## **Abstract**
 This project presents a bio-inspired approach to urban route optimization, inspired by the remarkable efficiency of slime molds in forming transport networks. In 2010, Japanese researchers conducted an experiment demonstrating how the slime mold *Physarum polycephalum* could replicate the Tokyo subway system's layout with surprising accuracy. By placing food sources at major city locations and allowing the slime mold to connect them, the organism developed a network that closely resembled the human-engineered railway system—suggesting that decentralized biological processes can optimize infrastructure with remarkable efficiency.
@@ -91,6 +91,9 @@ This project successfully applies **bio-inspired computing** to urban network op
 Unlike **deterministic methods** that compute a single optimal solution, our slime mold-inspired system continuously **evolves and adapts**, making it particularly suited for **dynamic environments**. The generated animation illustrates the step-by-step transformation of the road network, highlighting the power of **distributed intelligence** in solving complex optimization problems.
 
 For collaborations, questions, or further exploration, feel free to reach out through my GitHub profile.
+
+![Slime Mold Growth Animation](slime_growth.gif)
+![Slime Mold Growth Animation](dijkstra.gif)
 
 
 
